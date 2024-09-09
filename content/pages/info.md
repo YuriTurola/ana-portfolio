@@ -67,7 +67,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/image885851656.png
+        url: /images/image-removebg-preview (4).png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
