@@ -133,7 +133,8 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: >-
+              https://www.linkedin.com/in/ana-lu%C3%ADsa-arten%C3%ADzia-6283b2261/
         styles:
           self:
             textAlign: left
