@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Picture8.jpg
+  url: /images/Imagem do WhatsApp de 2024-09-09 à(s) 16.16.35_db28f9be.jpg
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
