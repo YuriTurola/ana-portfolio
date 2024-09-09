@@ -14,13 +14,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: ''
-    subtitle: >-
-      Olá, que bom te ver por aqui! Aqui é a Artenízia, sou uma artista
-      apaixonada que transforma sonhos em realidade através da arte. Com 24 anos
-      e radicada em Minas Gerais, minha jornada artística abrange uma variedade
-      de técnicas e estilos, incluindo arte em parede, telas, digital,
-      caricatura e muito mais. Desde a infância a arte tem sido minha paixão e
-      propósito, e estou aqui para compartilhar com você um pouco do que faço.
+    subtitle: "Olá, que bom te ver por aqui! Aqui é a Artenízia, sou uma artista apaixonada que transforma sonhos em realidade através da arte. Com 24 anos e radicada em Minas Gerais, minha jornada artística abrange uma variedade de técnicas e estilos, incluindo arte em parede, telas, digital, caricatura e muito mais. Desde a infância a arte tem sido minha paixão e propósito, e estou aqui para compartilhar com você um pouco do que faço.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação. Cada projeto é um aexpressão única da minha abordagem artística, projetada para transformar e inspirar.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Se você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato. Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro ao criar."
     styles:
       self:
         height: auto
