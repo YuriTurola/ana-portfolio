@@ -4,7 +4,7 @@ title: Sobre mim
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/635a94d376b13be79cbd17f8_horizontal (25).svg
+  url: /images/635a914f6b636e278ec7abe5_hodors-sentence.svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
