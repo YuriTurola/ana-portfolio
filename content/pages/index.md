@@ -48,7 +48,7 @@ sections:
     subtitle: Alguns trabalhos meus
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Picture1.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
