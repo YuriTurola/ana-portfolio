@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/635a914f6b636e278ec7abe5_hodors-sentence.svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
