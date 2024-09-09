@@ -40,7 +40,8 @@ module.exports = {
             },
             fontFamily: {
                 fontPrimary: ['DM Mono', 'monospace'],
-                fontSecondary: ['Azeret Mono', 'monospace']
+                fontSecondary: ['Azeret Mono', 'monospace'],
+                fontAnalu: ['Raleway', 'sans-serif']
             },
             letterSpacing: {
                 wide: '.05em',
