@@ -63,7 +63,7 @@ sections:
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/image-removebg-preview (3).png
+        url: /images/icons8-canva-240.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
