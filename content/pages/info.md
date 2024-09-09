@@ -137,6 +137,7 @@ sections:
               https://www.linkedin.com/in/ana-lu%C3%ADsa-arten%C3%ADzia-6283b2261/
             showIcon: true
             iconPosition: left
+            icon: linkedin
         styles:
           self:
             textAlign: left
