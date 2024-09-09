@@ -4,7 +4,7 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/635a914f6b636e278ec7abe5_hodors-sentence.svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: "Olá, que bom te ver por aqui! Aqui é a Artenízia, sou uma artista apaixonada que transforma sonhos em realidade através da arte. Com 24 anos e radicada em Minas Gerais, minha jornada artística abrange uma variedade de técnicas e estilos, incluindo arte em parede, telas, digital, caricatura e muito mais. Desde a infância a arte tem sido minha paixão e propósito, e estou aqui para compartilhar com você um pouco do que faço.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação. Cada projeto é um aexpressão única da minha abordagem artística, projetada para transformar e inspirar.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Se você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato. Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro ao criar."
+    subtitle: "Olá, que bom te ver por aqui!\_Aqui é a Artenízia, neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação. Cada projeto é um aexpressão única da minha abordagem artística, projetada para transformar e inspirar. Se você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato. Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro ao criar."
     styles:
       self:
         height: auto
@@ -43,12 +43,57 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: MediaGallerySection
+    title: Galeria
+    subtitle: Alguns trabalhos meus
+    images:
+      - type: ImageBlock
+        url: /images/Picture4.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Picture3.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Picture5.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Picture7.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 2
+    aspectRatio: '1:1'
+    showCaption: false
+    enableHover: false
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Veja todos meus serviços
         url: /projects
     showDate: false
     showDescription: true
@@ -80,7 +125,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projetos
+    subtitle: Serviços
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
