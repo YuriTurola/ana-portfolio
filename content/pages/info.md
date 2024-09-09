@@ -74,10 +74,6 @@ sections:
         url: /images/adobe-photoshop-logo_resized.png
         altText: Logo four
         caption: Logo four
-      - type: ImageBlock
-        url: /images/image-removebg-preview (8).png
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
