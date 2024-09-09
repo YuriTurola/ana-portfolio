@@ -36,7 +36,6 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-        textDecoration: underline
       text:
         textAlign: left
       actions:
