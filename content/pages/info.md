@@ -4,7 +4,7 @@ title: Sobre mim
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/635a94d376b13be79cbd17f8_horizontal (25).svg
+  url: /images/635a914f6b636e278ec7abe5_hodors-sentence.svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "Oiie!! Meu nome é Ana Luísa, e meu sobrenome é Artenízia ;) é engraçado porque tem arte no meu sobrenome, como se já estivesse predestinado! Eu sou uma artista de 24 anos e desde que me entendo por gente, a arte tem sido uma das minhas maiores paixões, mas só agora eu a vejo como um propósito. Trabalho com diversas formas de expressão, incluindo arte em parede, pintura em tela, desenho, caricatura e arte digital.\n\nMinha jornada artística é uma celebração da criatividade e da transformação. Cada projeto é uma oportunidade de explorar novas ideias e trazer algo único à vida das pessoas. Acredito que a arte pode transformar espaços e tocar corações, e é isso que busco em cada obra que crio e nas releituras que eu faço. A arte deixa tudo melhor e mais aconchegante!\n\nAtravés dos anos, desenvolvi um estilo pessoal que reflete minha dedicação e amor pela arte. Estou sempre em busca de novas formas de expressar minha visão e de me conectar com aqueles que compartilham dessa paixão. Espero que você se apaixone o tanto quanto eu me apaixono pela vida e a arte!\nObrigada por ler até aqui\_e\_até\_mais\_:\\*\n"
+    text: "*Oiie!! Meu nome é Ana Luísa, e meu sobrenome é Artenízia ;) é engraçado porque tem arte no meu sobrenome, como se já estivesse predestinado! Eu sou uma artista de 24 anos e desde que me entendo por gente, a arte tem sido uma das minhas maiores paixões, mas só agora eu a vejo como um propósito. Trabalho com diversas formas de expressão, incluindo arte em parede, pintura em tela, desenho, caricatura e arte digital.*\n\n*Minha jornada artística é uma celebração da criatividade e da transformação. Cada projeto é uma oportunidade de explorar novas ideias e trazer algo único à vida das pessoas. Acredito que a arte pode transformar espaços e tocar corações, e é isso que busco em cada obra que crio e nas releituras que eu faço. A arte deixa tudo melhor e mais aconchegante!*\n\n*Através dos anos, desenvolvi um estilo pessoal que reflete minha dedicação e amor pela arte. Estou sempre em busca de novas formas de expressar minha visão e de me conectar com aqueles que compartilham dessa paixão. Espero que você se apaixone o tanto quanto eu me apaixono pela vida e a arte!\nObrigada por ler até aqui\_e\_até\_mais\_:\\**\n"
     media:
       type: ImageBlock
       url: /images/Imagem do WhatsApp de 2024-09-09 à(s) 16.16.35_db28f9be.jpg
@@ -218,7 +218,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contato:'
+    subtitle: "Contato... \U0001F4AC:"
     colors: colors-f
     text: |
       <naluartenizia.@gmail.com>
@@ -234,77 +234,4 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Entre em contato... \U0001F4AC"
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: Primeiro Nome
-          label: Primeiro nome
-          hideLabel: true
-          placeholder: Nome
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: Sobre Nome
-          label: Sobre Nome
-          hideLabel: true
-          placeholder: Sobrenome
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: E-mail
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Conte me mais sobre suas dúvidas
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-      submitLabel: "Enviar \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-12
-          - pb-12
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 ---
