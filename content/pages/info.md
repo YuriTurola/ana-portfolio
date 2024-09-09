@@ -59,7 +59,7 @@ sections:
     subtitle: 'Eu trabalho com:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/OIP__1_-removebg-preview.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
