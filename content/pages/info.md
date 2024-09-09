@@ -354,7 +354,7 @@ sections:
   - type: ContactSection
     backgroundSize: full
     title: "Entre em contato... \U0001F4AC"
-    colors: colors-d
+    colors: colors-f
     form:
       type: FormBlock
       elementId: sign-up-form
