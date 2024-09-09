@@ -222,7 +222,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: 'Contato:'
     colors: colors-f
     text: |
       <naluartenizia.@gmail.com>
