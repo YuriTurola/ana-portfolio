@@ -245,7 +245,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [naluartenizia.@gmail.com](mailto:thisismyemail.@myemail.me)
+      <naluartenizia.@gmail.com>
   - type: DividerSection
     styles:
       self:
