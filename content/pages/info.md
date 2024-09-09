@@ -125,7 +125,8 @@ sections:
         actions:
           - type: Link
             label: Whatsapp
-            url: 'https://twitter.com/'
+            url: >-
+              https://wa.me/5535999300125?text=Ol%C3%A1,%20gostaria%20de%20fazer%20um%20or%C3%A7amento%20ou%20saber%20mais%20sobre%20seus%20servi%C3%A7os!
             icon: send
             iconPosition: left
             showIcon: true
