@@ -153,6 +153,15 @@ sections:
             textAlign: left
       - type: FeaturedItem
         actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: '/https://www.instagram.com/arte.nizia/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
           - type: Link
             label: Instagram
             url: 'https://www.instagram.com/arte.nizia/'
