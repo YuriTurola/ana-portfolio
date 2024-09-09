@@ -133,7 +133,11 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
+            url: >-
+              https://www.linkedin.com/in/ana-lu%C3%ADsa-arten%C3%ADzia-6283b2261/
+            showIcon: true
+            iconPosition: left
+            icon: linkedin
         styles:
           self:
             textAlign: left
@@ -154,7 +158,10 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/arte.nizia/'
+            icon: instagram
+            showIcon: true
+            iconPosition: left
         styles:
           self:
             textAlign: left
