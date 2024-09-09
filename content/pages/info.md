@@ -383,7 +383,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Conte me mais sobre suas dúvidas
           isRequired: true
           width: full
           type: TextareaFormControl
