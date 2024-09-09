@@ -128,6 +128,7 @@ sections:
             url: 'https://twitter.com/'
             icon: playCircle
             iconPosition: left
+            showIcon: true
         styles:
           self:
             textAlign: left
