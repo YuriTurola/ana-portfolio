@@ -3,19 +3,19 @@
     "favicon": "/images/favicon.svg",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-a",
         "isSticky": false,
         "title": "Personal",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Sobre mim",
                 "url": "/info"
             },
             {
                 "type": "Link",
-                "label": "Projects",
+                "label": "Projetos",
                 "url": "/projects"
             },
             {
@@ -27,17 +27,17 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/ana-lu%C3%ADsa-arten%C3%ADzia-6283b2261/",
+                "icon": "linkedin"
             },
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "https://www.instagram.com/artenizzz/",
+                "icon": "instagram"
             }
         ],
         "styles": {
@@ -51,13 +51,13 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Sobre mim",
                 "url": "/info",
                 "altText": ""
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Contato",
                 "url": "mailto:thisismyemail.@myemail.me",
                 "altText": ""
             },
@@ -88,7 +88,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }

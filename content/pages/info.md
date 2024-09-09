@@ -13,15 +13,11 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "Olá! Sou a Ana Lu Artenízia, uma artista apaixonada por tudo que envolve a arte. Com 24 anos e vivendo em Minas Gerais, tenho trabalhado com uma ampla gama de técnicas e formatos, desde arte em parede e telas até criações digitais e caricaturas. Desde a infância, a arte sempre foi minha verdadeira paixão e propósito.\n\nAtravés dos anos, desenvolvi um estilo único e uma abordagem pessoal para cada projeto, buscando sempre expressar minha visão criativa e trazer algo especial para cada obra. Acredito que a arte tem o poder de transformar espaços e tocar vidas, e é isso que busco transmitir em cada trabalho que realizo.\n\nAqui você encontrará alguns dos meus trabalhos, que refletem minha dedicação e amor pela arte. Para orçamentos e mais informações, entre em contato comigo. E não deixe de me acompanhar nas redes sociais para conferir mais novidades\_e\_atualizações.\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: /images/nevou.jpeg
+      altText: Minha foto
     styles:
       self:
         height: auto
@@ -60,26 +56,26 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'Eu trabalho com:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/OIP__1_-removebg-preview.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/image-removebg-preview (3).png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
+        url: /images/image-removebg-preview (6)_resized.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/adobe-photoshop-logo_resized.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/image-removebg-preview (8).png
         altText: Logo five
         caption: Logo five
     spacing: 3
@@ -121,10 +117,7 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -145,10 +138,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
+        actions: []
         styles:
           self:
             textAlign: left
@@ -165,6 +155,14 @@ sections:
           - type: Link
             label: Instagram
             url: 'https://www.instagram.com/'
+        styles:
+          self:
+            textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
         styles:
           self:
             textAlign: left
