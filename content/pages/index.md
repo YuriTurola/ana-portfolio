@@ -93,7 +93,7 @@ sections:
     elementId: ''
     actions:
       - type: Link
-        label: See all projects
+        label: Veja todos meus serviços
         url: /projects
     showDate: false
     showDescription: true
