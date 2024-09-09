@@ -15,9 +15,12 @@ sections:
     backgroundSize: full
     title: ''
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Olá, que bom te ver por aqui! Aqui é a Artenízia, sou uma artista
+      apaixonada que transforma sonhos em realidade através da arte. Com 24 anos
+      e radicada em Minas Gerais, minha jornada artística abrange uma variedade
+      de técnicas e estilos, incluindo arte em parede, telas, digital,
+      caricatura e muito mais. Desde a infância a arte tem sido minha paixão e
+      propósito, e estou aqui para compartilhar com você um pouco do que faço.
     styles:
       self:
         height: auto
