@@ -71,7 +71,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/photoshop_5968520.png
+        url: /images/OIP__1_-removebg-preview.png
         altText: Logo four
         caption: Logo four
     spacing: 3
