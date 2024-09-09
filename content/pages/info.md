@@ -4,7 +4,7 @@ title: Sobre mim
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg4.jpg
+  url: /images/635a94d376b13be79cbd17f8_horizontal (25).svg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
