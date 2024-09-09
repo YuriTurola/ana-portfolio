@@ -369,7 +369,7 @@ sections:
         - name: Sobre Nome
           label: Sobre Nome
           hideLabel: true
-          placeholder: Last Name
+          placeholder: Sobrenome
           isRequired: false
           width: 1/2
           type: TextFormControl
