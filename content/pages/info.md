@@ -13,11 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "Olá! Sou a Ana Lu Artenízia, uma artista apaixonada por tudo que envolve a arte. Com 24 anos e vivendo em Minas Gerais, tenho trabalhado com uma ampla gama de técnicas e formatos, desde arte em parede e telas até criações digitais e caricaturas. Desde a infância, a arte sempre foi minha verdadeira paixão e propósito.\n\nAtravés dos anos, desenvolvi um estilo único e uma abordagem pessoal para cada projeto, buscando sempre expressar minha visão criativa e trazer algo especial para cada obra. Acredito que a arte tem o poder de transformar espaços e tocar vidas, e é isso que busco transmitir em cada trabalho que realizo.\n\nAqui você encontrará alguns dos meus trabalhos, que refletem minha dedicação e amor pela arte. Para orçamentos e mais informações, entre em contato comigo. E não deixe de me acompanhar nas redes sociais para conferir mais novidades\_e\_atualizações.\n"
     media:
       type: ImageBlock
       url: /images/about.jpg
