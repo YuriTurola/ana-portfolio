@@ -360,7 +360,7 @@ sections:
       elementId: sign-up-form
       fields:
         - name: firstName
-          label: First Name
+          label: Primeiro nome
           hideLabel: true
           placeholder: First Name
           isRequired: true
