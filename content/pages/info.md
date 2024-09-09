@@ -71,7 +71,7 @@ sections:
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/adobe-photoshop-logo.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
