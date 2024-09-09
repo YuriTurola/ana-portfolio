@@ -159,6 +159,7 @@ sections:
           - type: Link
             label: Instagram
             url: 'https://www.instagram.com/arte.nizia/'
+            icon: instagram
         styles:
           self:
             textAlign: left
