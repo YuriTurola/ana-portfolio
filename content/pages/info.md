@@ -126,6 +126,14 @@ sections:
           - type: Link
             label: Twitter
             url: 'https://twitter.com/'
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: '/https://www.instagram.com/arte.nizia/'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
         styles:
           self:
             textAlign: left
