@@ -160,7 +160,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: ''
-        subtitle: ''
+        subtitle: LinkedIn
         text: ''
         elementId: ''
         styles:
