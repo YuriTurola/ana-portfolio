@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: "Olá, que bom te ver por aqui!\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Aqui é a Artenízia, neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação. Cada projeto é um aexpressão única da minha abordagem artística, projetada para transformar e inspirar.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Se você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato. Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro ao criar."
+    subtitle: "Olá, que bom te ver por aqui!\_ \_ \_ \_ \_ Aqui é a Artenízia, neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação. Cada projeto é um aexpressão única da minha abordagem artística, projetada para transformar e inspirar.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_  Se você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato. Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro ao criar."
     styles:
       self:
         height: auto
