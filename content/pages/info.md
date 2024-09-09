@@ -75,7 +75,7 @@ sections:
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/image-removebg-preview (7).png
+        url: /images/image-removebg-preview (8).png
         altText: Logo five
         caption: Logo five
     spacing: 3
