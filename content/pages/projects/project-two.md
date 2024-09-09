@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Walls
 colors: colors-a
-date: '2022-06-20'
+date: '2024-02-20'
 client: Awesome client
 description: Arte em mural
 featuredImage:
