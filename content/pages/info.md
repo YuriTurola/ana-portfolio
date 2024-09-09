@@ -124,7 +124,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: Whatsapp
             url: 'https://twitter.com/'
         styles:
           self:
