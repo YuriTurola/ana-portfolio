@@ -126,6 +126,7 @@ sections:
           - type: Link
             label: Whatsapp
             url: 'https://twitter.com/'
+            icon: twitter
         styles:
           self:
             textAlign: left
