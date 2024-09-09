@@ -76,7 +76,7 @@
         ],
         "contacts": {
             "type": "ContactBlock",
-            "title": "Contacts details",
+            "title": "Contacts detail",
             "phoneNumber": "3599930-0125",
             "phoneAltText": "Meu número de telefone",
             "email": "naluartenizia@gmail.com",
