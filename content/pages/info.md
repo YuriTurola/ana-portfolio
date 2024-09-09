@@ -126,7 +126,7 @@ sections:
           - type: Link
             label: Whatsapp
             url: 'https://twitter.com/'
-            icon: twitter
+            icon: playCircle
             iconPosition: left
         styles:
           self:
