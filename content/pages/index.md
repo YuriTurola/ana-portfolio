@@ -45,7 +45,7 @@ sections:
     actions: []
   - type: MediaGallerySection
     title: Galeria
-    subtitle: This is the subtitle
+    subtitle: Alguns trabalhos meus
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
