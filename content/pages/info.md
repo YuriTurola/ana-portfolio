@@ -161,6 +161,7 @@ sections:
             url: 'https://www.instagram.com/arte.nizia/'
             icon: instagram
             showIcon: true
+            iconPosition: left
         styles:
           self:
             textAlign: left
