@@ -125,7 +125,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: Projetos
+    subtitle: Serviços
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
