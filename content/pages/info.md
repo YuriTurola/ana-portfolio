@@ -242,7 +242,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contato:'
+    subtitle: 'Contact:'
     colors: colors-f
     text: |
       [naluartenizia.@gmail.com](mailto:thisismyemail.@myemail.me)
