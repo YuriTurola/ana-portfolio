@@ -218,7 +218,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contato:'
+    subtitle: "Contato... \U0001F4AC:"
     colors: colors-f
     text: |
       <naluartenizia.@gmail.com>
