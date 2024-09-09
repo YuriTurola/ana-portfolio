@@ -77,7 +77,7 @@
         "contacts": {
             "type": "ContactBlock",
             "title": "Detalhes de Contato",
-            "phoneNumber": "55(35)99930-0125",
+            "phoneNumber": "(35)99930-0125",
             "phoneAltText": "Meu número de telefone",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "Meu e-mail",
