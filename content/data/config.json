@@ -78,7 +78,7 @@
             "type": "ContactBlock",
             "title": "Detalhes de Contato",
             "phoneNumber": "55(35)99930-0125",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "Meu número de telefone",
             "email": "thisismyemail.@myemail.me",
             "emailAltText": "My email",
             "address": "312 Lovely Street, Brooklyn, NY, 123456",
