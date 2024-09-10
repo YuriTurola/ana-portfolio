@@ -43,14 +43,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/pintando_parede_costas.jpg
-      altText: >-
-        Foto minha pintando a parede com um desenho do itachi sob uma lua
-        vermelha
-      caption: Caption of the image
-      elementId: ''
   - type: MediaGallerySection
     title: Galeria
     subtitle: Alguns trabalhos meus
