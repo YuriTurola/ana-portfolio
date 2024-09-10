@@ -216,4 +216,5 @@ sections:
         justifyContent: flex-end
 socialImage: /images/pintando_parede_costas.jpg
 metaDescription: Artenízia Portfólio
+metaTitle: Artenízia
 ---
