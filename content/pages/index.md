@@ -43,7 +43,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: "<div style=\"text-align: left\"></div>\n\n<div style=\"text-align: left\">Neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação. Cada projeto é uma expressão única da minha abordagem artística, projetada para transformar e inspirar.</div>\n\nSe você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato. Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro\_ao\_criar.\n"
+    text: "<div style=\"text-align: left\"></div>\n\n<div style=\"text-align: left\">Neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação. \n\nCada projeto é uma expressão única da minha abordagem artística, projetada para transformar e inspirar.</div>\n\nSe você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato. Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro\_ao\_criar.\n"
   - type: MediaGallerySection
     title: Galeria
     subtitle: Alguns trabalhos meus
