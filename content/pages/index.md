@@ -45,7 +45,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/pintando_parede_costas.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
