@@ -10,40 +10,6 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
-    title: ''
-    subtitle: "Olá, que bom te ver por aqui!\_Aqui é a Artenízia,\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_"
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row-reverse
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-        fontWeight: 400
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: HeroSection
-    actions: []
-    text: "\_ neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação.\_ \_ \_ \_ \_ \_ Cada projeto é uma expressão única da minha abordagem artística,projetada para transformar e inspirar. Se você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro ao criar.\n"
   - type: MediaGallerySection
     title: Galeria
     subtitle: Alguns trabalhos meus
@@ -89,6 +55,40 @@ sections:
         textAlign: center
       subtitle:
         textAlign: center
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: ''
+    subtitle: "Olá, que bom te ver por aqui!\_Aqui é a Artenízia,\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_"
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row-reverse
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+        fontWeight: 400
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+    actions: []
+    text: "\_ neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação.\_ \_ \_ \_ \_ \_ Cada projeto é uma expressão única da minha abordagem artística,projetada para transformar e inspirar. Se você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato.\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro ao criar.\n"
   - type: MediaGallerySection
     title: ''
     subtitle: ''
