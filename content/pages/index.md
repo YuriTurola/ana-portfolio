@@ -214,4 +214,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+socialImage: /images/pintando_parede_costas.jpg
 ---
