@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Pintura em Tela
 colors: colors-a
-date: ''
+date: '2024-09-10'
 client: "\U0001F49F"
 description: Perfeitas para decorar ambientes ou colecionar.
 featuredImage:
