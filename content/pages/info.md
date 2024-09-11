@@ -43,7 +43,7 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-    title: 'Oiie!! '
+    title: ''
   - type: DividerSection
     styles:
       self:
