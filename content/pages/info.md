@@ -4,7 +4,8 @@ title: Sobre mim
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/635a914f6b636e278ec7abe5_hodors-sentence.svg
+  url: >-
+    /images/1920x1080-blue-pink-mesh-gradient-banner-background-wallpaper-website-template-landing-page-web-frame-text_685444-38.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
