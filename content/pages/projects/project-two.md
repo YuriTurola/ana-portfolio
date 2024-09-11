@@ -61,7 +61,8 @@ bottomSections:
         textAlign: center
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: >-
+    /images/1920x1080-blue-pink-mesh-gradient-banner-background-wallpaper-website-template-landing-page-web-frame-text_685444-38.jpg
   backgroundSize: auto
   backgroundPosition: center
   backgroundRepeat: no-repeat
