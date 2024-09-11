@@ -7,7 +7,7 @@ client: "\U0001F49F"
 description: Perfeitas para decorar ambientes ou colecionar.
 featuredImage:
   type: ImageBlock
-  url: /images/Picture8.jpg
+  url: /images/tela_azul.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
