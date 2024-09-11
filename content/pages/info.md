@@ -44,7 +44,13 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     title: ''
-    subtitle: 'Oiie!! '
+    subtitle: >-
+      Oiie!! Meu nome é Ana Luísa, e meu sobrenome é Artenízia ;) é engraçado
+      porque tem arte no meu sobrenome, como se já estivesse predestinado! Eu
+      sou uma artista de 24 anos e desde que me entendo por gente, a arte tem
+      sido uma das minhas maiores paixões, mas só agora eu a vejo como um
+      propósito. Trabalho com diversas formas de expressão, incluindo arte em
+      parede, pintura em tela, desenho, caricatura e arte digital.
   - type: DividerSection
     styles:
       self:
