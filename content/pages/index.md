@@ -49,7 +49,7 @@ sections:
     subtitle: Alguns trabalhos meus
     images:
       - type: ImageBlock
-        url: /images/Picture4.jpg
+        url: /images/bixo rosa.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
