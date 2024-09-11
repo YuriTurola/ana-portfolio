@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Picture8.jpg
+  url: /images/tela_azul.jpg
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
