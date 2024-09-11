@@ -4,7 +4,8 @@ title: Home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/635a914f6b636e278ec7abe5_hodors-sentence.svg
+  url: >-
+    /images/1920x1080-blue-pink-mesh-gradient-banner-background-wallpaper-website-template-landing-page-web-frame-text_685444-38.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -14,7 +15,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: "Olá, que bom te ver por aqui!\_Aqui é a Artenízia, neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação. Cada projeto é um aexpressão única da minha abordagem artística, projetada para transformar e inspirar. Se você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato. Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro ao criar."
+    subtitle: "Olá, que bom te ver por aqui!\_Aqui é a Artenízia,\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_"
     styles:
       self:
         height: auto
@@ -43,12 +44,13 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: "<div style=\"text-align: left\"></div>\n\n<div style=\"text-align: left\">Neste espaço, você encontrará uma galeria de trabalhos que refletem minha visão criativa e dedicação.</div>\n\nCada projeto é uma expressão única da minha abordagem artística, projetada para transformar e inspirar.\n\nSe você está interessado em algum dos meus trabalhos ou deseja discutir um projeto personalizado, não hesite em entrar em contato. Fique à vontade para explorar o meu espaço, e espero que você se inspire tanto quanto eu me inspiro\_ao\_criar.\n\n![](/images/pintando_parede_costas.jpg)\n"
   - type: MediaGallerySection
     title: Galeria
     subtitle: Alguns trabalhos meus
     images:
       - type: ImageBlock
-        url: /images/Picture4.jpg
+        url: /images/bixo rosa.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
@@ -58,12 +60,12 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Picture5.jpg
+        url: /images/eren.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Picture7.jpg
+        url: /images/Imagem do WhatsApp de 2024-09-10 à(s) 11.27.01_3074b341.jpg
         altText: Image four
         caption: Image four caption
         elementId: ''
@@ -78,6 +80,51 @@ sections:
       self:
         height: auto
         width: narrow
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+  - type: MediaGallerySection
+    title: ''
+    subtitle: ''
+    images:
+      - type: ImageBlock
+        url: /images/jane doe.jpg
+        altText: Image one
+        caption: Image one caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/studio.jpg
+        altText: Image two
+        caption: Image two caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/Imagem do WhatsApp de 2024-09-10 à(s) 11.27.01_9b86aee2.jpg
+        altText: Image three
+        caption: Image three caption
+        elementId: ''
+      - type: ImageBlock
+        url: /images/essa.jpg
+        altText: Image four
+        caption: Image four caption
+        elementId: ''
+    colors: colors-f
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
         padding:
           - pt-12
           - pb-12
@@ -168,70 +215,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
+socialImage: /images/pintando_parede_costas.jpg
+metaDescription: Artenízia Portfólio
+metaTitle: Artenízia
 ---
