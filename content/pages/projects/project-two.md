@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Walls
+title: Pintura em tela
 colors: colors-a
 date: '2024-02-20'
 client: Awesome client
