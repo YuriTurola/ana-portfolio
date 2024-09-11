@@ -4,12 +4,7 @@ title: Pintura em Tela
 colors: colors-a
 date: '2024-02-20'
 client: Awesome client
-description: >-
-  As pinturas em tela são uma das minhas formas mais pessoais de expressão
-  artística. Cada obra é desenvolvida com atenção aos detalhes e emoção, seja os
-  personagem favoritos, ou uma criação de algo que foi imaginado, o cliente tem
-  a versatilidade para escolher o que mais se parece com ele, e eu de criar o
-  que o cliente espera! Perfeitas para decorar ambientes ou colecionar.
+description: ''
 featuredImage:
   type: ImageBlock
   url: /images/Picture8.jpg
