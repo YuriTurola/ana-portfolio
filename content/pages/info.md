@@ -14,7 +14,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "<div style=\"text-align: left\">### *\nMinha jornada artística é uma celebração da criatividade e da transformação.*</div>\n\nCada projeto é uma oportunidade de explorar novas ideias e trazer algo único à vida das pessoas. Acredito que a arte pode transformar espaços e tocar corações, e é isso que busco em cada obra que crio e nas releituras que eu faço.*\n\nA arte deixa tudo melhor e mais aconchegante!*\n\nAtravés dos anos, desenvolvi um estilo pessoal que reflete minha dedicação e amor pela arte. Estou sempre em busca de novas formas de expressar minha visão e de me conectar com aqueles que compartilham dessa paixão. Espero que você se apaixone o tanto quanto eu me apaixono pela vida e a arte!###  Obrigada por ler até aqui\_e\_até\_mais\_:\\*</div>\n"
+    text: "### Minha jornada artística é uma celebração da criatividade e da transformação.\n\nCada projeto é uma oportunidade de explorar novas ideias e trazer algo único à vida das pessoas. Acredito que a arte pode transformar espaços e tocar corações, e é isso que busco em cada obra que crio e nas releituras que eu faço.\\*\n\nA arte deixa tudo melhor e mais aconchegante!\\*\n\nAtravés dos anos, desenvolvi um estilo pessoal que reflete minha dedicação e amor pela arte. Estou sempre em busca de novas formas de expressar minha visão e de me conectar com aqueles que compartilham dessa paixão. Espero que você se apaixone o tanto quanto eu me apaixono pela vida e a arte!###  Obrigada por ler até aqui\_e\_até\_mais\_:\\*</div>\n"
     media:
       type: ImageBlock
       url: /images/Imagem do WhatsApp de 2024-09-09 à(s) 16.16.35_db28f9be.jpg
