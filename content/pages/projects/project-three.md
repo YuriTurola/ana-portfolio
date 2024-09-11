@@ -14,7 +14,7 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: /images/Imagem do WhatsApp de 2024-09-10 à(s) 11.27.01_3074b341.jpg
+  url: /images/Picture9.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
