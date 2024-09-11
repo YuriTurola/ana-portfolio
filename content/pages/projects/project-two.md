@@ -69,7 +69,7 @@ bottomSections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/essa.jpg
+        url: /images/studio.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
