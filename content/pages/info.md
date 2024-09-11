@@ -230,7 +230,7 @@ sections:
     subtitle: "Contato... \U0001F4AC:"
     colors: colors-f
     text: |
-      <naluartenizia.@gmail.com>
+      [naluartenizia.@gmail.com](mailto:naluartenizia@gmail.com)
   - type: DividerSection
     styles:
       self:
