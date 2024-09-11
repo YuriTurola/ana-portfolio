@@ -64,7 +64,7 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-2.jpg
+        url: /images/Imagem do WhatsApp de 2024-09-10 à(s) 11.27.01_3074b341.jpg
         altText: Image two
         caption: Image two caption
         elementId: ''
