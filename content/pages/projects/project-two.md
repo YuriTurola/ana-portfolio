@@ -4,7 +4,7 @@ title: Pintura em Tela
 colors: colors-a
 date: '2024-02-20'
 client: Awesome client
-description: ''
+description: Perfeitas para decorar ambientes ou colecionar.
 featuredImage:
   type: ImageBlock
   url: /images/Picture8.jpg
