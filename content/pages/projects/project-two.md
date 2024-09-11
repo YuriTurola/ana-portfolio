@@ -59,6 +59,13 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: auto
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 <div style="text-align: left">As pinturas em tela são uma das minhas formas mais pessoais de expressão artística. Cada obra é desenvolvida com atenção aos detalhes e emoção, seja os personagem favoritos, ou uma criação de algo que foi imaginado, o cliente tem a versatilidade para escolher o que mais se parece com ele, e eu de criar o que o cliente espera! Perfeitas para decorar ambientes ou colecionar.</div>
 
