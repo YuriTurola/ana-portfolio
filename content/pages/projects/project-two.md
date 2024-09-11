@@ -74,7 +74,7 @@ bottomSections:
         caption: Image one caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/elementos.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
