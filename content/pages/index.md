@@ -110,7 +110,7 @@ sections:
         caption: Image three caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Imagem do WhatsApp de 2024-09-10 à(s) 11.27.01_3074b341.jpg
+        url: /images/essa.jpg
         altText: Image four
         caption: Image four caption
         elementId: ''
