@@ -29,7 +29,7 @@ bottomSections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/Imagem do WhatsApp de 2024-09-10 à(s) 11.27.01_9b86aee2.jpg
+        url: /images/Imagem do WhatsApp de 2024-09-10 à(s) 11.27.01_cb97341b.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
