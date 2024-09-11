@@ -15,7 +15,7 @@ media:
   altText: Project image
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: ''
     images:
       - type: ImageBlock
