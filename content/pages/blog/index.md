@@ -17,7 +17,7 @@ postFeed:
   showExcerpt: false
   showFeaturedImage: false
   showReadMoreLink: false
-  variant: variant-d
+  variant: variant-a
   styles:
     self:
       width: narrow
