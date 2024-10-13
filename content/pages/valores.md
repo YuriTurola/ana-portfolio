@@ -25,30 +25,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: TextSection
-    colors: colors-d
-    variant: variant-b
-    title: ''
-    subtitle: ''
-    text: |
-      Arte em Parede: R$ 150 - R$ 300 por metro quadrado.
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
