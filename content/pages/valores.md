@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Valores Médios dos Nossos Serviços
+    title: ''
     subtitle: >-
       Os preços para os serviços de arte podem variar dependendo de vários
       fatores, como o tamanho do projeto, a complexidade do design e os
