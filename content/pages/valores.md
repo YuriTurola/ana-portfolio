@@ -6,11 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: ''
-    subtitle: >-
-      Os preços para os serviços de arte podem variar dependendo de vários
-      fatores, como o tamanho do projeto, a complexidade do design e os
-      materiais utilizados. Aqui está uma média geral para ajudá-lo a ter uma
-      ideia do custo:
+    subtitle: Valores Médios dos Nossos Serviços
     text: >
       Os preços para os serviços de arte podem variar dependendo de vários
       fatores, como o tamanho do projeto, a complexidade do design e os
