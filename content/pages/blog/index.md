@@ -14,7 +14,7 @@ postFeed:
   colors: colors-f
   showDate: true
   showAuthor: false
-  showExcerpt: true
+  showExcerpt: false
   showFeaturedImage: false
   showReadMoreLink: false
   variant: variant-d
