@@ -15,7 +15,7 @@ postFeed:
   showDate: true
   showAuthor: false
   showExcerpt: true
-  showFeaturedImage: true
+  showFeaturedImage: false
   showReadMoreLink: true
   variant: variant-d
   styles:
