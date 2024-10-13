@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Valores Médios Dos Nossos Serviços
+title: Valores Médios dos Nossos Serviços
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
