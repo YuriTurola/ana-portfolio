@@ -11,7 +11,11 @@ sections:
       fatores, como o tamanho do projeto, a complexidade do design e os
       materiais utilizados. Aqui está uma média geral para ajudá-lo a ter uma
       ideia do custo:
-    text: ''
+    text: >
+      Os preços para os serviços de arte podem variar dependendo de vários
+      fatores, como o tamanho do projeto, a complexidade do design e os
+      materiais utilizados. Aqui está uma média geral para ajudá-lo a ter uma
+      ideia do custo:
     elementId: ''
     styles:
       self:
