@@ -11,7 +11,7 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: /images/Picture9.jpg
+  url: /images/caricatura capa.jpg
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
