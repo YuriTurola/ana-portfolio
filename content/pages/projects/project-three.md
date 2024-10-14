@@ -57,5 +57,12 @@ bottomSections:
         textAlign: center
       subtitle:
         textAlign: center
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Seja para presentes ou eventos especiais, minhas caricaturas são feitas com detalhes personalizados, criando uma peça divertida e memorável. Sendo moldado ao gosto do cliente, há um amplo repertório de caricaturas caricatas ou realísticas!
