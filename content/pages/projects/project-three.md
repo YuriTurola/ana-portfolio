@@ -107,7 +107,7 @@ bottomSections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/caricatura 9.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
