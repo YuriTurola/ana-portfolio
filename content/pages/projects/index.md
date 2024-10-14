@@ -26,6 +26,7 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
+  title: a
 styles:
   title:
     textAlign: left
