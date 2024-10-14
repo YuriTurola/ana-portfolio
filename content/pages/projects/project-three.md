@@ -59,7 +59,7 @@ bottomSections:
         textAlign: center
   - type: MediaGallerySection
     title: Gallery
-    subtitle: This is the subtitle
+    subtitle: This is the subitle
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
