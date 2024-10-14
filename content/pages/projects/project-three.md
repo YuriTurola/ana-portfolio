@@ -58,7 +58,7 @@ bottomSections:
       subtitle:
         textAlign: center
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: ''
     images:
       - type: ImageBlock
