@@ -5,10 +5,6 @@ colors: colors-a
 date: '2022-01-22'
 client: ''
 description: 'Caricaturas feitas com muito talento, amor e carinho.'
-media:
-  type: ImageBlock
-  url: /images/bg3.jpg
-  altText: Project image
 featuredImage:
   type: ImageBlock
   url: /images/caricatura capa.jpg
