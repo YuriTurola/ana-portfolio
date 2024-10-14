@@ -13,7 +13,7 @@ featuredImage:
   elementId: ''
 bottomSections:
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: ''
     images:
       - type: ImageBlock
